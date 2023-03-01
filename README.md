@@ -1,2 +1,2 @@
 # Algerian-Forest-fire-
-Machine Learning Classification Problem.
+EDA and Machine Learning Classification Problem.
